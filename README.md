@@ -1,4 +1,4 @@
-# Autonomous_Vehicle_Controller
+# self-driving-vehicle-controller
 ## Project Summary
 The purpose of this project is to autonomously control a robot as it travels around a track and returns license plates and parking IDs of parked cars (all within the Gazebo simulated environment shown in *Figure 1*). 
 
