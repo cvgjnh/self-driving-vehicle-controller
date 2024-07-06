@@ -52,8 +52,3 @@ For more details on the implementation in general, please visit the written repo
 
 ## Installation
 Follow the installation guide [here](ROS_environment/README.md) to set up the ROS environment.
-
-## Contact Information
-Eric Fan - [Email](mailto:ericfan1110@gmail.com)
-
-Harry Hu - [Email](mailto:harry.ty.hu@gmail.com)
